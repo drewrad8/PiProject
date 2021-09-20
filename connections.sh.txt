@@ -1,0 +1,2 @@
+#!/bin/bash
+netstat -antp | grep ESTABLISHED
